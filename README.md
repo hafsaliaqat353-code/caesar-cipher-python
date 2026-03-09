@@ -1,8 +1,5 @@
 # Caesar Cipher
-A simple Caesar cipher encoder/decoder built in Python.
-
-## How it works
-Shifts each letter by a given number to encrypt or decrypt a message.
+A Caesar cipher encoder/decoder built in Python.
 
 ## How to run
 python caesar.py
